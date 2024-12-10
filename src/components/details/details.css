@@ -1,0 +1,68 @@
+.room-detail-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .room-name {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .room-images {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .room-image {
+    width: 32%;
+    border-radius: 8px;
+  }
+  
+  .room-description {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #555;
+  }
+  
+  .services-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .room-services {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  .service-item {
+    font-size: 16px;
+    line-height: 1.4;
+    color: #555;
+  }
+  
+  .room-price {
+    font-size: 22px;
+    color: #333;
+  }
+  
+  .price-amount {
+    font-weight: bold;
+    color: #e74c3c;
+  }
+  .btn_book{
+    width: 10rem;
+    heigth: 5rem;
+    border-radius: 1rem;
+    margin-top: .5rem;
+    background-color: #508fc7;
+  }  
